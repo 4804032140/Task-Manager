@@ -1,0 +1,3 @@
+Project Summary: This project is a gamified task manager. The idea is to allow individuals to create a list of tasks that they must complete with an optional due date. When they complete a task they will be rewarded with an ingredient and if they gather the right ingredients they will be able to make a recipe. 
+
+Requirements: The app must be usable on a modern browser as well as have either an iOS or Android App, for now we will be going with iOS. The App will be using a MERN stack with MongoDB as a database and react for the frontend. The API must use JSON to communicate between client and server. The app must email verifiction for accounts. It must have a requirment for password complexity. Password recovery must be possible. Needs figma prototype for frontend.

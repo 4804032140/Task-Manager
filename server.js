@@ -6,7 +6,7 @@ const app = express();
 app.use(cors());
 app.use(bodyParser.json());
 
-//code to connect mongodb, url needs to be edited to our database
+//code to connect mongodb, url needs to be edited to OUR database
 const MongoClient = require('mongodb').MongoClient;
 const url = 'mongodb+srv://RickLeinecker:COP4331Rocks@cluster0-4pisv.mongodb.net/COP4331?retryWrites=true&w=majority';
 
